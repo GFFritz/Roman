@@ -1,0 +1,26 @@
+{
+  "name": "roman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GFFritz/Roman.git"
+  },
+  "author": "Gabriel Fritz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GFFritz/Roman/issues"
+  },
+  "homepage": "https://github.com/GFFritz/Roman#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mocha": "^9.1.3",
+    "request": "^2.88.2"
+  }
+}
